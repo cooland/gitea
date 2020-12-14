@@ -186,6 +186,8 @@ github.com/bradfitz/gomemcache/memcache
 github.com/cespare/xxhash/v2
 # github.com/chris-ramon/douceur v0.2.0
 github.com/chris-ramon/douceur/parser
+# github.com/cosmtrek/air v1.21.2
+## explicit
 # github.com/couchbase/go-couchbase v0.0.0-20201026062457-7b3be89bbd89
 github.com/couchbase/go-couchbase
 # github.com/couchbase/gomemcached v0.1.0
